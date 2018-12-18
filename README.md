@@ -9,4 +9,4 @@ Simple add the service, then the cost for each month. Make sure you set the Corr
 
 Send us your suggestions for improvements, just keep in mind that the point of this is to keep everything simple to understand/see 😊
 
-You might want to see the linkedin [post](https://www.linkedin.com/post/edit/excel-template-calculate-multi-currency-costs-abs-chamali) here for more info on how to use the sheet 
+You might want to see the linkedin [post](https://www.linkedin.com/post/edit/excel-template-calculate-multi-currency-costs-abs-chamali) here for more info on how to use the sheet. Otherwise, you can contact us via the [website](https://conceptsauce.io/)
